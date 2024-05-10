@@ -15,3 +15,7 @@ Glass Display Case: Planes with transparency create a realistic glass effect for
 
 ## Here's the demo in CodePen
 https://codepen.io/ahana19/pen/LYoYqZe
+
+## Live Demo
+
+![3D Bakery Shop Demo]("C:\Bakery Shop\GIF.webp")
