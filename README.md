@@ -18,4 +18,5 @@ https://codepen.io/ahana19/pen/LYoYqZe
 
 ## Live Demo
 
-![3D Bakery Shop Demo]("C:\Bakery Shop\GIF.webp")
+
+![GIF](https://github.com/Ahana19/3D-Bakery-Shop/assets/96533569/b49ac180-fc52-48e9-9808-9a42a2c13159)
